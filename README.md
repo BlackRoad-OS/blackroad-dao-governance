@@ -1,26 +1,25 @@
-# 🖤🛣️ BlackRoad Dao Governance
+# BlackRoad DAO Governance
 
-**Wave 7** | Part of the BlackRoad Product Empire - 400+ enterprise solutions
+Decentralized governance platform for DAOs with on-chain voting and treasury management.
 
-## 🚀 Quick Start
+## Features
 
-```bash
-./blackroad-dao-governance.sh
-```
+- **Proposal System** - Create and discuss proposals
+- **On-Chain Voting** - Transparent, verifiable votes
+- **Treasury Management** - Multi-sig fund control
+- **Delegation** - Vote power delegation
+- **Snapshot Integration** - Gas-free voting
+- **Custom Rules** - Flexible governance parameters
 
-## 🎨 BlackRoad Design System
+## Governance Types
 
-- **Hot Pink**: #FF1D6C
-- **Amber**: #F5A623  
-- **Electric Blue**: #2979FF
-- **Violet**: #9C27B0
+| Type | Quorum | Voting Period |
+|------|--------|---------------|
+| Standard | 10% | 7 days |
+| Emergency | 5% | 24 hours |
+| Constitutional | 66% | 14 days |
 
-## 📚 Documentation
+## License
 
-Full docs: https://docs.blackroad.io
-
-## 🖤 BlackRoad Empire
-
-Part of **400+ products** across **52 categories**. Built with ∞ vision.
-
-**BlackRoad OS, Inc.** | Built with Claude | Wave 7
+Copyright (c) 2026 BlackRoad OS, Inc. All rights reserved.
+Proprietary software. For licensing: blackroad.systems@gmail.com
